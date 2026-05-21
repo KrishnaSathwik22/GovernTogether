@@ -179,7 +179,7 @@ The frontend will typically run on `http://localhost:5173/` and the backend on `
 - 🔔 Push notifications for complaint updates
 
 ## 🤝 Contributors
-- **[Your Name]** - *Full Stack Developer* - [GitHub Profile](https://github.com/yourusername)
+- **[Krishna Sathwik.R]** - *Full Stack Developer* - [GitHub Profile](https://github.com/KrishnaSathwik22)
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
